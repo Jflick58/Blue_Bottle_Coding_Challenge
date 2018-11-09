@@ -1,6 +1,6 @@
 # Blue-Bottle-Coding-Challenge
 
-![Logos](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1AXG6ML26Y4HG/8cc0894e-1e12-48ad-936c-08715cc9c2ee._CR0,0,5000,1500_PT0_SX600__.jpg://icon2.kisspng.com/20180428/lfq/kisspng-blue-bottle-coffee-company-cafe-vietnamese-iced-co-5ae53922d98539.134644161524971810891.jpg)
+![Logos](https://www.yourbestdeals.com/wp-content/uploads/2016/11/Blue-Bottle-Coffee-Coupons.png)
 
 Coding Challenge for Blue Bottle Coffee Data Engineer Position 
 
