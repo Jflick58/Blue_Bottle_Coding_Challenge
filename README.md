@@ -1,6 +1,6 @@
 # Blue-Bottle-Coding-Challenge
 
-![Logos](https://bluebottlecoffee.com/assets/fb-og-image-default-b0bce82fbf6759deaa8fb9b4b848783f6108edc78c42af454c1f82e7e999e093.png)
+![Logos](https://icon2.kisspng.com/20180428/lfq/kisspng-blue-bottle-coffee-company-cafe-vietnamese-iced-co-5ae53922d98539.134644161524971810891.jpg)
 
 Coding Challenge for Blue Bottle Coffee Data Engineer Position 
 
