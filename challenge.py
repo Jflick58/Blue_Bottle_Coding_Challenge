@@ -10,7 +10,7 @@ import json #standard library JSON parser
 import requests #HTTP library
 
 #define global variables
-API_KEY = 'eb8328e17df6aa5e22a91c73d132e1d2'# repace with the key provided in challenge documentation
+API_KEY = 'YOUR_KEY_HERE'# repace with the key provided in challenge documentation
 
 class Database_Config:
     """ Defines the database connection and methods for manipulating the SQLite databse"""
